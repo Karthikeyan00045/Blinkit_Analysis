@@ -77,7 +77,7 @@ The report is organized into six analytical pages, three contextual tooltip page
 
 **Karthikeyan G**
 Data Analyst | Power BI Certified (Besant Technologies, 2026)
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](linkedin.com/in/karthikeyan-govindaraj-99a26830a) · [GitHub](github.com/Karthikeyan00045)
 
 ## License
 
