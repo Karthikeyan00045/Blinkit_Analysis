@@ -56,7 +56,28 @@ The report is organized into six analytical pages, three contextual tooltip page
 
 ## Screenshots
 
-*(Add exported page screenshots here, e.g. `![Overview](screenshots/overview.png)`)*
+## Screenshots
+
+### Overview Page
+![Blinkit Dashboard Overview](Screenshot%202026-06-18%20124110.png)
+
+### KPI Summary Page
+![Blinkit KPI Summary](Screenshot%202026-06-18%20124219.png)
+
+### Category Sales Page
+![Blinkit Category Sales](Screenshot%202026-06-18%20124307.png)
+
+### Outlet Performance Page
+![Blinkit Outlet Performance](Screenshot%202026-06-18%20124402.png)
+
+### Fat Content & Year Trends Page
+![Blinkit Fat & Year Trends](Screenshot%202026-06-18%20124510.png)
+
+### Ratings & Item Distribution Page
+![Blinkit Ratings](Screenshot%202026-06-18%20124615.png)
+
+### Drill-Through Page
+![Blinkit Drill-Through](Screenshot%202026-06-18%20124720.png)
 
 ## How to Use
 
